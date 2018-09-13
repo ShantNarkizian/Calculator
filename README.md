@@ -14,4 +14,6 @@ MatrixTest.java -files for testing Matrix.java functions
 
 ListTest.java -files for testing List.java functions
 
+in1 -example input file
+
 Makefile -simple makefile
