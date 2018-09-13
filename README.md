@@ -16,4 +16,6 @@ ListTest.java -files for testing List.java functions
 
 in1 -example input file
 
+out1 -example output file
+
 Makefile -simple makefile
