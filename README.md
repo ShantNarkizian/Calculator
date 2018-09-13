@@ -2,7 +2,8 @@ calculator
 ===
 This program performs arithmetic operations on matrices that are represented by a list ADT
 
-files:
+###files:
+
 Sparse.java -top level client
 
 Matrix.java -this file implements all the functions
