@@ -1,8 +1,4 @@
-Shant Narkizian
-snarkizi
-cs101
-5/14/18
-pa3
+# simple calculator
 
 files:
 Sparse.java -top level client
