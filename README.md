@@ -1,4 +1,6 @@
-# simple calculator
+calculator
+===
+This program does arithmetic operations on matrices that are represented by a list ADT
 
 files:
 Sparse.java -top level client
