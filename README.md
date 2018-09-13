@@ -1,6 +1,6 @@
 calculator
 ===
-This program performs arithmetic operations on matrices that are represented by a list ADT
+This project performs arithmetic operations on matrices that are represented by a list ADT
 
 ## files:
 
