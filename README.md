@@ -1,6 +1,6 @@
 calculator
 ===
-This project performs efficient arithmetic operations on matrices that are represented by a list ADT
+This project performs efficient arithmetic operations on matrices that are represented by a list ADT. Each entry is represented by a column position and value.
 
 ## files:
 
